@@ -1,16 +1,62 @@
-# search_schools
+# Search Schools Flutter Web
 
-A new Flutter project.
+Search Schools Flutter Web is a web application built using Flutter for searching schools.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Search Schools Flutter Web is a project aimed at providing a user-friendly interface for searching schools. It utilizes Flutter for web development, allowing users to access the application directly from their web browsers without the need for native mobile apps.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Search for schools based on various criteria such as location, name, etc.
+- View detailed information about each school.
+- Filter search results to narrow down options.
+- User-friendly interface optimized for web browsers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- Flutter
+- Dart
+- Flutter Web
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/bobga/search_schools_flutter_web.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd search_schools_flutter_web
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+Run the app:
+
+```bash
+flutter run -d chrome
+```
+
+## Usage
+
+- Open the app in your web browser by navigating to http://localhost:port_number.
+- Use the search bar to search for schools based on your criteria.
+- Filter search results as needed to refine your search.
+- Click on a school to view detailed information.
+
+## Screenshots
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
